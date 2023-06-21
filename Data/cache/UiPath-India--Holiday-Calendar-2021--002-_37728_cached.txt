@@ -1,0 +1,21 @@
+Ui Path TM
+
+Holiday Calendar 2021- India
+
+Day Friday   Date 01/01/2021   Holiday New Year               Bangalore ☒   Chennai ☒   NCR ☒   Mumbai & Pune ☒   Hyderabad ☒
+Thursday     14/01/2021        Pongal / Sankranti             ☒             ☒                                     ☒          
+Tuesday      26/01/2021        Republic Day                   ☒             ☒           ☒       ☒                 ☒          
+Thursday     11/03/2021        Maha Shivaratri                                          ☒       ☒                            
+Monday       29/03/2021        Holi                                                     ☒       ☒                            
+Friday       02/04/2021        Good Friday                    ☒             ☒           ☒       ☒                 ☒          
+Tuesday      13/04/2021        Ugadi / Tamil New Year's Day   ☒             ☒                                     ☒          
+Wednesday    21/04/2021        Ram Navami                                               ☒       ☒                            
+Friday       14/05/2021        Eid Ul Fitr                    ☒             ☒           ☒       ☒                 ☒          
+Wednesday    02/06/2021        Telangana Formation Day                                                            ☒          
+Wednesday    21/07/2021        Bakrid                         ☒             ☒           ☒       ☒                 ☒          
+Monday       30/08/2021        Janmashtami                    ☒             ☒           ☒       ☒                 ☒          
+Friday       10/09/2021        Ganesh Chaturthi               ☒             ☒           ☒       ☒                 ☒          
+Thursday     14/10/2021        Ayudha Pooja                                 ☒                                                
+Friday       15/10/2021        Vijaya Dashami                 ☒             ☒           ☒       ☒                 ☒          
+Monday       01/11/2021        Karnataka Rajyotsava           ☒                                                              
+Thursday     04/11/2021        Deepavali                      ☒             ☒           ☒       ☒                 ☒          

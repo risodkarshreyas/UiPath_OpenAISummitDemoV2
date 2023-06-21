@@ -1,0 +1,7 @@
+Who is the Lessor?
+Who is the Lessee?
+What is the term of this lease?
+What is the annual rent for the first year?
+What is the annual rent for the eighth year?
+After how many years can the Lessee terminate this lease?
+What is the prior notice for termination?
